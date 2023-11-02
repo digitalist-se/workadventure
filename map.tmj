@@ -2609,7 +2609,6 @@
          "name":"configuration",
          "objects":[
                 {
-                 "class":"variable",
                  "height":0,
                  "id":11,
                  "name":"exitSouthURL",
@@ -2641,13 +2640,13 @@
                          "value":"editor"
                         }],
                  "rotation":0,
+                 "type":"variable",
                  "visible":true,
                  "width":0,
                  "x":1281.33333333333,
                  "y":2804
                 }, 
                 {
-                 "class":"variable",
                  "height":0,
                  "id":12,
                  "name":"exitWestURL",
@@ -2679,6 +2678,7 @@
                          "value":"editor"
                         }],
                  "rotation":0,
+                 "type":"variable",
                  "visible":true,
                  "width":0,
                  "x":82,
@@ -3433,7 +3433,7 @@
         {
          "name":"mapDescription",
          "type":"string",
-         "value":"Suitable for up to 300 users.\n\nWant to see what it's like to work on a huge campus in Silicon Valley? We think you'll get a taste of it with this magnificent map made for you."
+         "value":"This is the Digitalist Open Tech virtual office campus\n\n \nA place where we can hang out, work, have meetings and play games.\n"
         }, 
         {
          "name":"mapImage",
@@ -3456,7 +3456,7 @@
          "value":true
         }],
  "renderorder":"right-down",
- "tiledversion":"1.9.2",
+ "tiledversion":"1.10.2",
  "tileheight":32,
  "tilesets":[
         {
@@ -8671,6 +8671,6 @@
         }],
  "tilewidth":32,
  "type":"map",
- "version":"1.9",
+ "version":"1.10",
  "width":79
 }
